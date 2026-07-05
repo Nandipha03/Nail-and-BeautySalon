@@ -1,8 +1,8 @@
 package za.ac.cput.nailbeautysalon.service;
-/* CustomerServiceTest.java
+/*
 Customer Service Test class
-Author: Chris Kabangu(220296693)
-Date: 05 July 2026
+Chris Kabangu
+220296693
 */
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.MethodOrderer;

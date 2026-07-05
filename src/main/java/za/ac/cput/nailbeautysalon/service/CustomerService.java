@@ -1,8 +1,8 @@
 package za.ac.cput.nailbeautysalon.service;
-/* CustomerService.java
+/*
 Customer Service class
-Author: Chris Kabangu(220296693)
-Date: 05 July 2026
+Author: Chris Kabangu
+220296693
 */
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
